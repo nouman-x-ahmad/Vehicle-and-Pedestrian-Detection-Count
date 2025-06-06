@@ -10,8 +10,12 @@
 > Recent advances in deep learning particularly one-stage detectors like YOLO and two-stage detectors like Faster R-CNN have dramatically improved detection accuracy and speed.
 > In this work, I build a pipeline that not only detects and classifies vehicles (cars, motorcycles, trucks, pedestrians, others) but also tracks each instance to avoid double-counting and estimates its speed via pixel-to-real-world conversion.
 ```
-![System Demo](/DEMO/Demo_Video.mp4) 
+## Demo 
+### Live
+https://github.com/user-attachments/assets/7f4edabe-5977-4637-bc1b-d75dcba9bd3e 
 
+### For download
+Click -> [⬇️Download](/DEMO/Demo_Video.mp4)
 ## 🌟 Key Features
 - 🎯 **YOLOv8 Object Detection** - Nano variant for real-time performance
 - 🔄 **DeepSORT Tracking** - Persistent object IDs with no double-counting
