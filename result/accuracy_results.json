@@ -1,0 +1,27 @@
+{
+  "pedestrian": {
+    "predicted": 86,
+    "ground_truth": 60,
+    "accuracy_pct": 56.666666666666664
+  },
+  "car": {
+    "predicted": 81,
+    "ground_truth": 67,
+    "accuracy_pct": 79.10447761194031
+  },
+  "motorcycle": {
+    "predicted": 94,
+    "ground_truth": 70,
+    "accuracy_pct": 65.71428571428571
+  },
+  "truck": {
+    "predicted": 48,
+    "ground_truth": 23,
+    "accuracy_pct": 0.0
+  },
+  "rest": {
+    "predicted": 6,
+    "ground_truth": 5,
+    "accuracy_pct": 80.0
+  }
+}
