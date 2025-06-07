@@ -122,7 +122,7 @@ Where:
 - `Δt` = Time between frames (seconds)
 - `3.6` = Conversion factor from m/s to km/h
 
-## 📝 Sample Output Report
+## 📝 Output Report Snippet
 ```json
 {
   "car": {
